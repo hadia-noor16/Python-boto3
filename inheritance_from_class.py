@@ -29,6 +29,6 @@ pup=Dog('pup','5','brown','Bark bark','dog','nice')
 kitty= Cat('kitty', '3','white','meow','cat','pet')
 
 pup.animal_speak()    # output: Hi I am pup I go  Bark bark
-kitty.animal_speak()   #Hi I am kitty I go  meow
+kitty.animal_speak()   # Hi I am kitty I go  meow
 kitty.animal_type()   # Hi I am kitty I am 3 years old I am a cat
 pup.animal_type()   #Hi I am pup I am 5 years old I am a dog
